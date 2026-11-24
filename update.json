@@ -1,6 +1,6 @@
 {
- "version": "1.1.0",
- "notes": "Interface 100 pour cent anglaise, clients prioritaires, auto-amelioration quotidienne, licence, reglages simplifies, une seule fenetre",
- "zip": "archie-1.1.0.zip",
- "sha256": "13f319411453374ba95ec12fe16349ccfbf2a2a2d6b6d2d6bd3bec9fc5d951fd"
+ "version": "1.1.1",
+ "notes": "Nouvelle animation de chargement, notes d'appel, plus besoin de dire Archie apres qu'il a parle, interruption plus facile, ouverture plein ecran, meteo plus rapide",
+ "zip": "archie-1.1.1.zip",
+ "sha256": "688bdb9cf34fe1d6dc3fcf35944b2b614b8cbbb482fd1b79ee29617d5b42dcd7"
 }
