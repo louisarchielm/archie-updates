@@ -1,6 +1,6 @@
 {
- "version": "1.1.1",
- "notes": "Nouvelle animation de chargement, notes d'appel, plus besoin de dire Archie apres qu'il a parle, interruption plus facile, ouverture plein ecran, meteo plus rapide",
- "zip": "archie-1.1.1.zip",
- "sha256": "37f85a7ae63c9cf526404d54edc8ec5ae7351cb3de962258190a85e71bae2a9d"
+ "version": "1.1.2",
+ "notes": "Correction du titre monsieur, meteo plus naturelle, animation de chargement plus petite",
+ "zip": "archie-1.1.2.zip",
+ "sha256": "424902b8ec43687b53f49490a02c5bab5d7c9ce8c911518818f517e4f69a8ce8"
 }
