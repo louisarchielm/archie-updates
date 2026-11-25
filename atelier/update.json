@@ -1,6 +1,6 @@
 {
- "version": "1.1.2",
- "notes": "Correction du titre monsieur, meteo plus naturelle, animation de chargement plus petite",
- "zip": "archie-1.1.2.zip",
- "sha256": "424902b8ec43687b53f49490a02c5bab5d7c9ce8c911518818f517e4f69a8ce8"
+ "version": "1.2.0",
+ "notes": "Navigation web par Archie avec fenetres multiples, fichiers Word Excel PowerPoint, voix payante, agenda plus fiable, conversation plus naturelle",
+ "zip": "archie-1.2.0.zip",
+ "sha256": "f92ace0da9f74b0f6ef86d3256fe9604689bd1c21393cf274762059fe8737f9b"
 }
