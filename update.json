@@ -1,6 +1,6 @@
 {
- "version": "1.2.0",
- "notes": "Navigation web par Archie avec fenetres multiples, fichiers Word Excel PowerPoint, voix payante, agenda plus fiable, conversation plus naturelle",
- "zip": "archie-1.2.0.zip",
- "sha256": "8b667866d78bcbfe2ae6f59b6be7f3eab4aafdaffdd6419e37b003239f2db8ff"
+ "version": "1.3.0",
+ "notes": "Textos de l iPhone lus et repondus par Archie, appels bidirectionnels avec Archie, simulations et modeles 3D, apprentissage du metier du client",
+ "zip": "archie-1.3.0.zip",
+ "sha256": "5e4e80af221dc11b17fc35cf9170c5b46a07a20d311fcec9421fc831681a55bd"
 }
