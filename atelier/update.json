@@ -1,6 +1,6 @@
 {
- "version": "1.3.2",
- "notes": "Minuteries et alarmes separees, choix de la chanson du reveil, conversation plus naturelle, prospection (brouillon puis envoi apres accord)",
- "zip": "archie-1.3.2.zip",
- "sha256": "1a5b18f9e4b40eb0740203f7cf06c053457ee5fae695e50d3bdabc7fb24804c7"
+ "version": "1.3.3",
+ "notes": "Interrupteur EN/FR permanent, nouvelle animation de demarrage, minuteries et alarmes mieux comprises (franglais compris), brouillons perimes jamais envoyes par un oui perdu, prospection plus naturelle",
+ "zip": "archie-1.3.3.zip",
+ "sha256": "fd0d415b27dc388481123dd57c244053175ea993f937ed953d6c127c77e6b320"
 }
