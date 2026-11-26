@@ -1,6 +1,6 @@
 {
- "version": "1.3.0",
- "notes": "Textos de l iPhone lus et repondus par Archie, appels bidirectionnels avec Archie, simulations et modeles 3D, apprentissage du metier du client",
- "zip": "archie-1.3.0.zip",
- "sha256": "2181a1481172654108597925db003aeeb145c0e56cea5b559661294a60243405"
+ "version": "1.3.1",
+ "notes": "Recherche web des nouveaux contacts, conversation plus fluide (reservations vocales, phrases coupees, questions sur les appels), Sonnet pour les suites de conversation",
+ "zip": "archie-1.3.1.zip",
+ "sha256": "4aa7044c8e506062ca580e865ae50fd99bd1a64c9f776ddbfb851e72d8fc5403"
 }
