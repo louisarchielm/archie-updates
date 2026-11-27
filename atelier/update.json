@@ -1,6 +1,6 @@
 {
- "version": "1.3.3",
- "notes": "Interrupteur EN/FR permanent, nouvelle animation de demarrage, minuteries et alarmes mieux comprises (franglais compris), brouillons perimes jamais envoyes par un oui perdu, prospection plus naturelle",
- "zip": "archie-1.3.3.zip",
- "sha256": "fd0d415b27dc388481123dd57c244053175ea993f937ed953d6c127c77e6b320"
+ "version": "1.3.4",
+ "notes": "Recherches sur Amazon et autres sites instantanees (amazon.ca par defaut), Archie se tait des que vous parlez, plus de fausses confirmations d agenda, il vous laisse finir vos phrases, mieux a qui vous parlez, bouton Stop, reprise automatique si la connexion saute",
+ "zip": "archie-1.3.4.zip",
+ "sha256": "0a9510a0f05cf1210909bbdc8346b2735bd2844980573684b527473fc23cb13f"
 }
